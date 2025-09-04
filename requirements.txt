@@ -1,0 +1,12 @@
+# Core de Análise de Dados
+pandas==2.2.2
+numpy==2.0.2
+
+# Visualização
+matplotlib==3.10.0
+seaborn==0.13.2
+
+# Machine Learning & NLP
+scikit-learn==1.6.1
+joblib==1.5.1
+wordcloud==1.9.4
